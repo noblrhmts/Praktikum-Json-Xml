@@ -9,7 +9,8 @@ Nobel Rahmat Sani (362358302075)
 
 -	Membuat Server Express.js
 
- ![image](https://github.com/user-attachments/assets/0771ee41-3d37-4c68-bd66-3905dca80744)
+![image](https://github.com/user-attachments/assets/1a448669-f982-46cf-9610-35e98c37a7a4)
+
 
 
 -	Menjalankan Server
